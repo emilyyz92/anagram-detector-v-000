@@ -11,4 +11,5 @@ class Anagram
         word_comp
       end
     end
+  end
 end
